@@ -6,6 +6,8 @@
 Features
 
 - Select how nearby and how recent the sightings can be.
+- Select which nearby county in which to find birds.
+- See rarities or all birds.
 - Open a sighting location in Apple or Google Maps.
 - See all sighting comments for a particular location.
 - Get identification details and photos to help you spot the bird,.
@@ -17,6 +19,4 @@ Privacy
 
 [Privacy Statement](privacy.html)
 
-<!-- that's a placeholder -->
-
-[![Download on the App Store](../Download_App_Store_en.png "Download on the App Store")](https://apps.apple.com/us/app/merlin-bird-id-by-cornell-lab/id773457673)
+[![Download on the App Store](../Download_App_Store_en.png "Download on the App Store")](https://apps.apple.com/us/app/ebirdalert/id6745479305)
