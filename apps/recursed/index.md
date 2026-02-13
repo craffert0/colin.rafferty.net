@@ -1,5 +1,3 @@
-% (setq markdown-css-paths '("https://cdn.simplecss.org/simple.min.css"))
-
 # Recursed!
 
 *Recursed!*  is your iOS integration into the Recurse Center. See who
