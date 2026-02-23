@@ -6,9 +6,10 @@ Do you have a digital camera that does not add location information to your phot
 
 ### Instructions
 
-1. Open the app and tap *Start Tracking*. You can now close the app.
+1. Make sure your digital camera's time is set properly.
+1. Open the app and slide the *Tracking* button on. You can now close the app.
 1. Go out and take pictures with your digital camera. Don't forget your phone.
-1. When you get home, open the app and tap *Stop Tracking*.
+1. When you get home, open the app and slide the *Tracking* button off.
 1. Sync your camera to any Apple device.
 1. In the app, tap *Fix Photos*
 1. Profit!
@@ -20,3 +21,6 @@ Do you have a digital camera that does not add location information to your phot
 All location tracking and photo processing is done on your phone, and no information leaves the phone, aside from the new locations on your iCloud photos.
 
 [Privacy Statement](privacy.html)
+
+[![Download on the App Store](../Download_App_Store_en.png "Download on the App Store")](https://apps.apple.com/us/app/photo-tracking/id6759109550)
+
